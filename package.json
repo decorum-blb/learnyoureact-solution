@@ -4,7 +4,7 @@
     "description": "",
     "main": "program.js",
     "scripts": {
-        "start": "node program.js",
+        "start": "node program.js 3000 Milk 13:00",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
